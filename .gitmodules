@@ -1,3 +1,6 @@
 [submodule "grpc"]
 	path = grpc
 	url = https://github.com/dimitur2204/grpc-java-go
+[submodule "course-assignment"]
+	path = course-assignment
+	url = https://github.com/dimitur2204/PRO3-course-assignment
